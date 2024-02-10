@@ -1,0 +1,19 @@
+.filter{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 10px;
+    outline: 50px;
+    outline-color: white;
+
+}

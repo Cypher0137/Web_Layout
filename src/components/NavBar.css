@@ -1,0 +1,12 @@
+.navHeading{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    background-color: darkslategrey;
+    overflow: hidden;
+    color: white;
+}
+::-webkit-scrollbar {
+    display: none;
+  }
