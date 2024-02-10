@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.Cards{
+    max-width: 1200px;
+    min-height: 50vh;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.all_data{
+    background-color: rgb(47, 44, 44);
+}
